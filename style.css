@@ -35,6 +35,7 @@ body {
 }
 body main {
   padding: 3px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
 }
 body main .artikel-parent .artikel1 {
   display: flex;
@@ -71,6 +72,12 @@ body main .artikel-parent .artikel1 .article1 figure img:active {
   transition: 0.3s ease-in;
 }
 body main .artikel-parent .artikel1 .article1 .p2skill {
+  color: greenyellow;
+}
+body main .artikel-parent .artikel1 .article1 .p3hobbie {
+  color: greenyellow;
+}
+body main .artikel-parent .artikel1 .article1 .p4project {
   color: greenyellow;
 }
 body main .artikel-parent .artikel1 .article1 h2 {
