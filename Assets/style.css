@@ -9,7 +9,7 @@ nav {
 }
 nav ul {
   background-color: rgb(255, 255, 255);
-  background-image: url(Assets/Image/4833552.jpg);
+  background-image: url(/Assets/Image/4833552.jpg);
   display: flex;
   list-style: none;
   gap: 20px;
@@ -31,7 +31,7 @@ nav ul li a {
 }
 
 body {
-  background-image: url(Assets/Image/4833552.jpg);
+  background-image: url(/Assets/Image/4833552.jpg);
 }
 body main {
   padding: 3px;
