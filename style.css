@@ -88,6 +88,9 @@ body #contact ul {
   display: flex;
   justify-content: center;
 }
+body #contact h2 {
+  text-align: center;
+}
 body #contact li {
   list-style: none;
 }

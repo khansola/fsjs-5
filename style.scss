@@ -43,6 +43,7 @@ body {
 
         padding: 3px;
         font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
         .artikel-parent {
             .artikel1 {
                 display: flex;
@@ -60,7 +61,6 @@ body {
                         display: flex;
                         justify-content: center;
                         align-items: center;
-
 
 
                         .foto2 {
@@ -105,6 +105,7 @@ body {
                         justify-content: center;
                     }
 
+
                 }
             }
         }
@@ -114,6 +115,10 @@ body {
         ul {
             display: flex;
             justify-content: center;
+        }
+
+        h2 {
+            text-align: center;
         }
 
         li {
